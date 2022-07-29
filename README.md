@@ -3,17 +3,17 @@
 ```
 class SoftwareEngineer {
   constructor(name, position) {
-    this.name = 'Vivian Chen'
-    this.position = 'Full Stack Software Engineer"
+    this.name = name;
+    this.position = position;
   }
   
   sayHi() {
-    return 'Thank you for dropping by!'
+    return 'Thank you for dropping by!';
   }     
 }
 
-me = new SoftwareEngineer()
-me.sayHi()
+const me = new SoftwareEngineer('Vivian Chen', 'Full Stack Software Engineer');
+me.sayHi();
 ```
 
 ## GitHub Stats
