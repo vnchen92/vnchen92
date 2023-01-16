@@ -21,7 +21,9 @@ me.sayHi();
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vnchen92&theme=radical&show_icons=true)
+[![Vivian's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnchen92&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnchen92&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vnchen92&theme=radical&layout=compact)
 
 
